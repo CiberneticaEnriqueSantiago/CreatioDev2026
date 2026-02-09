@@ -1,0 +1,19 @@
+{
+  "Name": "SQL Executor for Creatio",
+  "Description": "",
+  "Maintainer": "Samarasoft",
+  "IconName": "",
+  "Color": "#FF4013",
+  "LastUpdate": "\/Date(1577916000000+0200)\/",
+  "MarketplaceLink": "https://marketplace.creatio.com/app/sql-executor-creatio",
+  "HelpLink": "https://marketplace.terrasoft.ua/sites/marketplace/files/store/resource/SQL_Executor_for_Creatio.zip",
+  "OrderLink": "https://marketplace.creatio.com/marketplace/88/buy",
+  "SupportEmail": "support@samarasoft.com",
+  "Code": "global-88",
+  "Packages": [
+    {
+      "UId": "4887c1a6-978a-4761-8929-94353166997c",
+      "Name": "Samarasoft.SqlConsole"
+    }
+  ]
+}
