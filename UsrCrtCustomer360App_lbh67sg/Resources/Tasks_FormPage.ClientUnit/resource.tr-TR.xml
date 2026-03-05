@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="tr-TR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_1g27yyy_caption.Value" Value="Yeni ekle" />
+			<Item Name="LocalizableStrings.addRecord_d7tgh1o_caption.Value" Value="Yeni ekle" />
+		</Items>
+	</Group>
+</Resources>

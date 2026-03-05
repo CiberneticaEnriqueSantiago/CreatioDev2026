@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "621ece54-baa6-4a56-8bd3-ed92b0d77921",
+    "Name": "UsrMdaApproverChangeEventListener",
+    "ModifiedOnUtc": "\/Date(1772478349000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Event Listener para actualización de aprobador MDA",
+    "DependsOn": []
+  }
+}

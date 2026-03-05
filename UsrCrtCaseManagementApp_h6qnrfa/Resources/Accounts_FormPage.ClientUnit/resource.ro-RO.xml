@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CasesAddButton_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.CasesExpansionPanel_title.Value" Value="Cazuri" />
+			<Item Name="LocalizableStrings.CasesExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.CasesImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.CasesRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.CasesSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.CasesSettingsButton_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_776x8oo_caption.Value" Value="Nou" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExpansionPanel_title.Value" Value="Contract service" />
+			<Item Name="LocalizableStrings.ServiceAgreementsExportDataButton_caption.Value" Value="Export Excel" />
+			<Item Name="LocalizableStrings.ServiceAgreementsImportDataButton_caption.Value" Value="Import de date" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_1cf40713.Value" Value="Titlu" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_41b15d43.Value" Value="Numar" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_480040bd.Value" Value="Statutul" />
+			<Item Name="LocalizableStrings.ServiceAgreementsList_df16588b.Value" Value="Proprietar" />
+			<Item Name="LocalizableStrings.ServiceAgreementsListDS_ServicePact.Value" Value="Contract service" />
+			<Item Name="LocalizableStrings.ServiceAgreementsRefreshButton_caption.Value" Value="Reimprospatare" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSearchFilter_placeholder.Value" Value="Cautati" />
+			<Item Name="LocalizableStrings.ServiceAgreementsSettingsButton_caption.Value" Value="Actiuni" />
+			<Item Name="LocalizableStrings.ServiceTab_caption.Value" Value="Serviciu" />
+		</Items>
+	</Group>
+</Resources>

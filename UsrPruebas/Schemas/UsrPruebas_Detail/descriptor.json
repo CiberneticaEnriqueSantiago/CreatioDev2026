@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d85d977d-076d-4f97-9728-1167a445cf15",
+    "Name": "UsrPruebas_Detail",
+    "ModifiedOnUtc": "\/Date(1770212363000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "pruebas detail",
+    "DependsOn": []
+  }
+}

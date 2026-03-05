@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_1g27yyy_caption.Value" Value="새로 추가" />
+			<Item Name="LocalizableStrings.addRecord_d7tgh1o_caption.Value" Value="새로 추가" />
+		</Items>
+	</Group>
+</Resources>

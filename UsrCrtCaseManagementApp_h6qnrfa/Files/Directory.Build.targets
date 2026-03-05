@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Data/**" />
+		<Compile Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Schemas\**" />
+		<Compile Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Resources/**" />
+		<None Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Assemblies/**" />
+		<None Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Data/**" />
+		<None Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/SqlScripts/**" />
+		<None Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Schemas/**" />
+		<None Remove="$(PkgPath)/UsrCrtCaseManagementApp_h6qnrfa/Resources/**" />
+  </ItemGroup>
+</Project>

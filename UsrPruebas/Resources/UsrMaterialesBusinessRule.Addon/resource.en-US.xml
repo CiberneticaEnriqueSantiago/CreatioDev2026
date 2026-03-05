@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.e66f49cc-f75e-e71f-73b2-072f72b4dea5.Caption" Value="Apply static filter: Usuario Aprobador" />
+			<Item Name="Caption" Value="Materiales (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "4165a53a-7ede-e3a1-0805-1beae8018fa9",
+    "Name": "UsrApiRoleManagement",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1772734867000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApiRoleManagement.csproj",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      }
+    ]
+  }
+}

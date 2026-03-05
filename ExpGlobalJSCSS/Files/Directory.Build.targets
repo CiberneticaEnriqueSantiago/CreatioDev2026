@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/ExpGlobalJSCSS/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/ExpGlobalJSCSS/Data/**" />
+		<Compile Remove="$(PkgPath)/ExpGlobalJSCSS/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/ExpGlobalJSCSS/Schemas\**" />
+		<Compile Remove="$(PkgPath)/ExpGlobalJSCSS/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpGlobalJSCSS/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpGlobalJSCSS/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpGlobalJSCSS/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpGlobalJSCSS/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpGlobalJSCSS/Resources/**" />
+		<None Remove="$(PkgPath)/ExpGlobalJSCSS/Assemblies/**" />
+		<None Remove="$(PkgPath)/ExpGlobalJSCSS/Data/**" />
+		<None Remove="$(PkgPath)/ExpGlobalJSCSS/SqlScripts/**" />
+		<None Remove="$(PkgPath)/ExpGlobalJSCSS/Schemas/**" />
+		<None Remove="$(PkgPath)/ExpGlobalJSCSS/Resources/**" />
+  </ItemGroup>
+</Project>

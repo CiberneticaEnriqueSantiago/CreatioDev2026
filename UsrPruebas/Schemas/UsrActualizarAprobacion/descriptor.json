@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "558407bf-ebcd-498f-998e-6502ed9526c4",
+    "Name": "UsrActualizarAprobacion",
+    "ModifiedOnUtc": "\/Date(1772482018000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Actualizar o crear aprobaciones",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Materiales" />
+			<Item Name="Columns.UsrAprobado.Caption" Value="Aprobado" />
+			<Item Name="Columns.UsrArchivo.Caption" Value="Archivo" />
+			<Item Name="Columns.UsrCantidad.Caption" Value="Cantidad" />
+			<Item Name="Columns.UsrImporte.Caption" Value="Importe" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrRealty.Caption" Value="Realty" />
+			<Item Name="Columns.UsrUsuarioAprobador.Caption" Value="Usuario Aprobador" />
+			<Item Name="Columns.UsrValorNeto.Caption" Value="Valor Neto" />
+			<Item Name="Columns.UsrValorNetoDado.Caption" Value="Valor Neto Dado" />
+		</Items>
+	</Group>
+</Resources>

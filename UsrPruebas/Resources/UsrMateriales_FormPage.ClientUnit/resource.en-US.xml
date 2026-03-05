@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Materiales form page" />
+			<Item Name="LocalizableStrings.addRecord_geb6b2j_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_tma64zo_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_mg9aiwr_caption.Value" Value="Calcular Valor Neto y Validar" />
+		</Items>
+	</Group>
+</Resources>

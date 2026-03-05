@@ -1,0 +1,31 @@
+﻿{
+  "Descriptor": {
+    "UId": "e124b049-d28e-4023-8c9b-cbc1b02e76c5",
+    "Name": "UsrCrtCaseManagementApp_h6qnrfa",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1770664966000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrCrtCaseManagementApp_h6qnrfa.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
+        "UId": "43d663d1-6ab9-4369-903c-f804cacc55e4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagementApp",
+        "Type": 1
+      },
+      {
+        "UId": "8073e9c8-edb1-3d73-2e54-55b005de61ec",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLAInC360",
+        "Type": 1,
+        "InstallBehavior": 1
+      }
+    ]
+  }
+}

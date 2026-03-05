@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f7c356b3-545d-4b51-bae1-d276856cf494",
+    "Name": "UsrMateriales_ListPage",
+    "ModifiedOnUtc": "\/Date(1771949513000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Materiales list page",
+    "DependsOn": []
+  }
+}

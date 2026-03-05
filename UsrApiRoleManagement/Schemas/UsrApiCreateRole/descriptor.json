@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dbb8e819-2789-4d33-a64b-a53bc8c1a531",
+    "Name": "UsrApiCreateRole",
+    "ModifiedOnUtc": "\/Date(1772739429000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "UsrApiCreateRole",
+    "DependsOn": []
+  }
+}

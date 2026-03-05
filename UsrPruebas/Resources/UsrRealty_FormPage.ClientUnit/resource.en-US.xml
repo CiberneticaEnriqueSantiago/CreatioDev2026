@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty edit page" />
+			<Item Name="LocalizableStrings.addRecord_8dyy4jx_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_uwvc30w_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_4424779_caption.Value" Value="Solicitar Aprobación" />
+			<Item Name="LocalizableStrings.Button_grih0mj_caption.Value" Value="Aprobar Sub-registros" />
+			<Item Name="LocalizableStrings.ExpansionPanel_krsbfb7_title.Value" Value="Materiales" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_5r3aic7_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_y0pxn33_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_6emw8xt_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_uw8dfso_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_s7di3k0_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_7ytpk32_caption.Value" Value="Actions" />
+		</Items>
+	</Group>
+</Resources>

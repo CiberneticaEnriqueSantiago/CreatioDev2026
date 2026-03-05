@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e74a8d80-a24a-482a-8d65-efb71823a9bb",
+    "Name": "UsrMaterialesBusinessRule",
+    "ModifiedOnUtc": "\/Date(1772203611000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Materiales (Business rules)",
+    "DependsOn": []
+  }
+}

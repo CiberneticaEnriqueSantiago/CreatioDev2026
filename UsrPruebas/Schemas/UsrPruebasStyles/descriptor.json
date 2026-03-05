@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f2e29756-acc9-490f-87b0-ceb3211cd821",
+    "Name": "UsrPruebasStyles",
+    "ModifiedOnUtc": "\/Date(1770218354000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PruebasStyle",
+    "DependsOn": []
+  }
+}

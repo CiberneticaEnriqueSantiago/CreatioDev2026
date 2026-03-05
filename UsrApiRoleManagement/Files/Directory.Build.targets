@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/UsrApiRoleManagement/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/UsrApiRoleManagement/Data/**" />
+		<Compile Remove="$(PkgPath)/UsrApiRoleManagement/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/UsrApiRoleManagement/Schemas\**" />
+		<Compile Remove="$(PkgPath)/UsrApiRoleManagement/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApiRoleManagement/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApiRoleManagement/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApiRoleManagement/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApiRoleManagement/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrApiRoleManagement/Resources/**" />
+		<None Remove="$(PkgPath)/UsrApiRoleManagement/Assemblies/**" />
+		<None Remove="$(PkgPath)/UsrApiRoleManagement/Data/**" />
+		<None Remove="$(PkgPath)/UsrApiRoleManagement/SqlScripts/**" />
+		<None Remove="$(PkgPath)/UsrApiRoleManagement/Schemas/**" />
+		<None Remove="$(PkgPath)/UsrApiRoleManagement/Resources/**" />
+  </ItemGroup>
+</Project>
